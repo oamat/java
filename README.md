@@ -1,2 +1,2 @@
 # java
-Several Java projects with Spring and others
+Several Java projects with Spring and other frameworks
