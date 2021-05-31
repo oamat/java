@@ -1,2 +1,2 @@
 # java
-Several Java projects with Spring and other frameworks
+Several Java playground projects with Spring Boot framework: Microservices, JPA, Query Annotation, Forms, MVC ...
