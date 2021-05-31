@@ -1,2 +1,3 @@
 # MS Java with Spring Framework
 
+Several Java playground projects with Spring Boot framework: Microservices, JPA, Query Annotation, Forms, MVC ...
